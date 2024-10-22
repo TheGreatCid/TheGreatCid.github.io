@@ -132,8 +132,9 @@
     text-align: center;
     text-decoration: none;
     color: mix(#fff, $gray, 50%);
-    border: 1px solid $light-gray;
+    border: 1px solid $button-border;
     border-radius: $border-radius;
+    background-color: $button-background;
 
     &:hover {
       color: $link-color-hover;
@@ -160,7 +161,7 @@
 
 .page__content + .pagination,
 .page__meta + .pagination,
-.page__share + .pagination,
+// .page__share + .pagination,
 .page__comments + .pagination {
   margin-top: 2em;
   padding-top: 2em;
