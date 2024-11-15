@@ -45,5 +45,18 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Service and leadership
+Graduate Classes
 ======
+
+| Class Name                        | Date Taken  | Grade | Description                                                                        |
+| --------------------------------- | ----------- | ----- | ---------------------------------------------------------------------------------- |
+| Finite Element Methods            | Sprint 2020 | A-    | Introductory course to linear finite element methods                               |
+| Continuum Mechanics               | Spring 2020 | A     | Introductory course to continuum methods                                           |
+| Partial Differential Equations    | Fall 2020   | B-    | Course covering techniques for solving PDE's analytically                          |
+| Intro to Programming              | Spring 2021 | B+    | Introductory course to C/C++ and object oriented programming                       |
+| Non Linear Finite Element Methods | Spring 2021 | A     | Course covering methods for solving non-linear systems with finite element methods |
+| Mathematical Modeling             | Spring 2021 | B+    | Course covering popular methods for approximating PDE's                            |
+| Intermediate Dynamics             | Fall 2021   | A     | Course covering dynamics of very high dimensional systems                          |
+| Plasticity                        | Fall 2021   | A     | Introductory course to material plasticity                                         |
+| Fracture Mechanics                | Fall 2022   | A     | A course covering methods for representing fracture                                |
+| Parallel Computing                | Spring 2024 | A-    | An introductory course to parallel computing                                       |
