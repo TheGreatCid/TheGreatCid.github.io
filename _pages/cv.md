@@ -9,20 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
 
-* Ph.D in
+* Ph.D Candidate in Mechanical Engineering, Duke University, 2025 (expected)
+* B.S. in Aerospace Engineering, North Carolina State University, 2020
 
-Work experience
-======
+## Work experience
   
-*
+* 
 *
 *
 
-Skills
-======
+## Skills
 
 * Skill 1
 * Skill 2
@@ -31,22 +29,19 @@ Skills
   *
 * Skill 3
 
-Publications
-======
+## Publications
 
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
+## Talks
 
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Graduate Classes
-======
+## Graduate Classes
 
 | Class Name                        | Date Taken  | Grade | Description                                                                        |
 | --------------------------------- | ----------- | ----- | ---------------------------------------------------------------------------------- |
