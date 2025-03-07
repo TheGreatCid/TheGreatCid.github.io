@@ -17,17 +17,17 @@ redirect_from:
 ## Thesis Research
 
 * Partnered with Sandia National Laboratories to perform research on high-speed ductile fracture
-  * A corner stone is the combination of phase-field with a thermo-mechanical solve that captures shear failure in a thermo-dynamically consistent fashion
+  * A corner stone is the combination of phase-field with a thermo-mechanical solve that captures shear failure in a thermodynamically consistent fashion
   * Key techniques used:
     * Finite element methods
     * Variational framework development
     * C++ framework development
     * Parallel computing
-* As a part of this research, I currently maintain RACCOON, a phase-field framework build upon the MOOSE framework built by the Dolbow lab at Duke University
+* As a part of this research, I currently maintain RACCOON, a phase-field framework built upon the MOOSE framework developed by Idaho National Laboratories
   * Doing so involves:
     * Adding in new physics
     * Resolving issues
-    * Keeping the repository up to date with the shifting requirement of the MOOSE framework
+    * Keeping the repository up to date with the shifting requirements of the MOOSE framework
 
 ## Graduate Work experience
 
